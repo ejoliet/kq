@@ -1,0 +1,407 @@
+{
+ "Contents": [
+  {
+   "Key": "data/part-0000.parquet",
+   "Size": 1000,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0001.parquet",
+   "Size": 1001,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0002.parquet",
+   "Size": 1002,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0003.parquet",
+   "Size": 1003,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0004.parquet",
+   "Size": 1004,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0005.parquet",
+   "Size": 1005,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0006.parquet",
+   "Size": 1006,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0007.parquet",
+   "Size": 1007,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0008.parquet",
+   "Size": 1008,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0009.parquet",
+   "Size": 1009,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0010.parquet",
+   "Size": 1010,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0011.parquet",
+   "Size": 1011,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0012.parquet",
+   "Size": 1012,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0013.parquet",
+   "Size": 1013,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0014.parquet",
+   "Size": 1014,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0015.parquet",
+   "Size": 1015,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0016.parquet",
+   "Size": 1016,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0017.parquet",
+   "Size": 1017,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0018.parquet",
+   "Size": 1018,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0019.parquet",
+   "Size": 1019,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0020.parquet",
+   "Size": 1020,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0021.parquet",
+   "Size": 1021,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0022.parquet",
+   "Size": 1022,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0023.parquet",
+   "Size": 1023,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0024.parquet",
+   "Size": 1024,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0025.parquet",
+   "Size": 1025,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0026.parquet",
+   "Size": 1026,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0027.parquet",
+   "Size": 1027,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0028.parquet",
+   "Size": 1028,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0029.parquet",
+   "Size": 1029,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0030.parquet",
+   "Size": 1030,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0031.parquet",
+   "Size": 1031,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0032.parquet",
+   "Size": 1032,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0033.parquet",
+   "Size": 1033,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0034.parquet",
+   "Size": 1034,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0035.parquet",
+   "Size": 1035,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0036.parquet",
+   "Size": 1036,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0037.parquet",
+   "Size": 1037,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0038.parquet",
+   "Size": 1038,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0039.parquet",
+   "Size": 1039,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0040.parquet",
+   "Size": 1040,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0041.parquet",
+   "Size": 1041,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0042.parquet",
+   "Size": 1042,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0043.parquet",
+   "Size": 1043,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0044.parquet",
+   "Size": 1044,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0045.parquet",
+   "Size": 1045,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0046.parquet",
+   "Size": 1046,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0047.parquet",
+   "Size": 1047,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0048.parquet",
+   "Size": 1048,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0049.parquet",
+   "Size": 1049,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0050.parquet",
+   "Size": 1050,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0051.parquet",
+   "Size": 1051,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0052.parquet",
+   "Size": 1052,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0053.parquet",
+   "Size": 1053,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0054.parquet",
+   "Size": 1054,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0055.parquet",
+   "Size": 1055,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0056.parquet",
+   "Size": 1056,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0057.parquet",
+   "Size": 1057,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0058.parquet",
+   "Size": 1058,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0059.parquet",
+   "Size": 1059,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0060.parquet",
+   "Size": 1060,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0061.parquet",
+   "Size": 1061,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0062.parquet",
+   "Size": 1062,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0063.parquet",
+   "Size": 1063,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0064.parquet",
+   "Size": 1064,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0065.parquet",
+   "Size": 1065,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0066.parquet",
+   "Size": 1066,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0067.parquet",
+   "Size": 1067,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0068.parquet",
+   "Size": 1068,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0069.parquet",
+   "Size": 1069,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0070.parquet",
+   "Size": 1070,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0071.parquet",
+   "Size": 1071,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0072.parquet",
+   "Size": 1072,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0073.parquet",
+   "Size": 1073,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0074.parquet",
+   "Size": 1074,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0075.parquet",
+   "Size": 1075,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0076.parquet",
+   "Size": 1076,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0077.parquet",
+   "Size": 1077,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0078.parquet",
+   "Size": 1078,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "data/part-0079.parquet",
+   "Size": 1079,
+   "StorageClass": "STANDARD"
+  }
+ ],
+ "IsTruncated": false,
+ "KeyCount": 80,
+ "Name": "example-bucket"
+}
